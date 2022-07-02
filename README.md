@@ -1,2 +1,2 @@
 # dji-tello-py-drone-keyboard-control
-keyboard control djitellopy
+control you dji tello py drone using python .
